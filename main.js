@@ -1,4 +1,4 @@
-import './style.css';
+import 'style.css';
 import confetti from 'canvas-confetti';
 
 // Function to generate random sweet messages
